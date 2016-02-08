@@ -1,0 +1,83 @@
+img{margin:0px 10px 5px 10px;
+	-webkit-box-shadow: 5px 5px 5px 5px black;}
+.img1 {clear: left;
+		float:left;
+		margin:10px 40px 5px 10px;}
+ 
+.nav{float:right;
+		position: fixed;
+		margin:5px 60px 0px 0px;
+		font-family:Petit Formal Script, cursive;
+		font-size:x-large;}
+		
+div {float: right;
+		height: 390px;
+		width: 200px;
+		text-align: center;
+		margin: 0px 60px 0px 0px;}	
+		
+.nav li{display:block;
+		padding: 5px 5px 5px 6px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+		border: 2px outset;
+		border-radius: 25px;
+		background-image: url("background 1.jpg");}
+		
+a:link {color: black; 
+			text-decoration: none;}
+a:visited {color: grey;
+			text-decoration: none;}
+a:hover {color: white;
+			text-decoration: underline white;}
+a:active {color: lightpink;
+			text-decoration: underline lightpink;}
+		
+body {background-image: url("background 1.jpg");
+		font-family:Petit Formal Script, cursive;
+		font-size: medium;}
+		
+.p1{ text-align: justify;
+		font-size: 110%;
+		margin: 20px 20px 20px 20px;}
+		
+.p2 {text-align:left;
+	font-size: 110%;
+	margin: 20px 20px 20px 40px;
+	border: 2px transparent;}
+
+.p2 li {margin: 7px 0px 0px 0px;}	
+	
+#logo{font-family:Petit Formal script, cursive;
+		font-size: 300%;
+		margin:5px 0px 5px 20px;
+		text-shadow: 2px 0px grey;}
+
+		
+h3 {color: black;
+	font-size: 125%;
+	margin: 20px 0px 0px 10px;
+	font-weight: 1;
+	text-align: left;}		
+	
+h2 {color: black; 
+	font-size: 100%;
+	margin: 20px 0px 0px 10px;
+	font-weight: 1;
+	text-align: left;}	
+	
+
+.em2 {font-family:Petit Formal script, cursive;
+		font-size: 60%;
+		color: darkgrey;
+		text-shadow: 2px 0px black;}
+		
+.em3 {font-family: Petit Formal script, cursive;
+		font-size: 100%;
+		color: black;
+		text-shadow: 2px 0px white;
+		text-decoration: underline;}
+	
+
+#author {clear: left;
+		margin: 120px 0px 0px 0px;}
